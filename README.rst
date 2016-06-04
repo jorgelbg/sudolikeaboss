@@ -1,6 +1,9 @@
 sudolikeaboss - Now you can too!
 ================================
 
+.. image:: https://dn-gorelease.qbox.me/gorelease-download-blue.svg
+   :target: https://gobuild.io/jorgelbg/sudolikeaboss/master
+
 .. image:: https://raw.githubusercontent.com/ravenac95/readme-images/master/sudolikeaboss/demo.gif
 
 Pretty neat, eh?
